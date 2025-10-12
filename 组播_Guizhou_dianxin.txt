@@ -58,63 +58,63 @@ http://1.49.246.207:1024/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",思南综合
 http://1.49.246.207:1024/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州公共
-http://218.86.185.135:4022/rtp/238.255.2.2:5999
+http://218.86.186.18:4022/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州影视文艺
-http://218.86.185.135:4022/rtp/238.255.2.3:5999
+http://218.86.186.18:4022/rtp/238.255.2.3:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州大众生活
-http://218.86.185.135:4022/rtp/238.255.2.4:5999
+http://218.86.186.18:4022/rtp/238.255.2.4:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-5
-http://218.86.185.135:4022/rtp/238.255.2.5:5999
+http://218.86.186.18:4022/rtp/238.255.2.5:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州科教
-http://218.86.185.135:4022/rtp/238.255.2.6:5999
+http://218.86.186.18:4022/rtp/238.255.2.6:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-7
-http://218.86.185.135:4022/rtp/238.255.2.9:5999
+http://218.86.186.18:4022/rtp/238.255.2.9:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳综合
-http://218.86.185.135:4022/rtp/238.255.2.19:5999
+http://218.86.186.18:4022/rtp/238.255.2.19:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳生活
-http://218.86.185.135:4022/rtp/238.255.2.20:5999
+http://218.86.186.18:4022/rtp/238.255.2.20:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳-3
-http://218.86.185.135:4022/rtp/238.255.2.22:5999
+http://218.86.186.18:4022/rtp/238.255.2.22:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",六盘水-1
-http://218.86.185.135:4022/rtp/238.255.2.115:5999
+http://218.86.186.18:4022/rtp/238.255.2.115:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",六盘水-2
-http://218.86.185.135:4022/rtp/238.255.2.116:5999
+http://218.86.186.18:4022/rtp/238.255.2.116:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔南-1
-http://218.86.185.135:4022/rtp/238.255.2.150:5999
+http://218.86.186.18:4022/rtp/238.255.2.150:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔南-2
-http://218.86.185.135:4022/rtp/238.255.2.151:5999
+http://218.86.186.18:4022/rtp/238.255.2.151:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔西南综合
-http://218.86.185.135:4022/rtp/238.255.2.126:5999
+http://218.86.186.18:4022/rtp/238.255.2.126:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔西南公共
-http://218.86.185.135:4022/rtp/238.255.2.127:5999
+http://218.86.186.18:4022/rtp/238.255.2.127:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔东南综合
-http://218.86.185.135:4022/rtp/238.255.2.179:5999
+http://218.86.186.18:4022/rtp/238.255.2.179:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义综合
-http://218.86.185.135:4022/rtp/238.255.2.153:5999
+http://218.86.186.18:4022/rtp/238.255.2.153:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义公共
-http://218.86.185.135:4022/rtp/238.255.2.152:5999
+http://218.86.186.18:4022/rtp/238.255.2.152:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义都市
-http://218.86.185.135:4022/rtp/238.255.2.154:5999
+http://218.86.186.18:4022/rtp/238.255.2.154:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",铜仁-1
-http://218.86.185.135:4022/rtp/238.255.2.31:5999
+http://218.86.186.18:4022/rtp/238.255.2.31:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",铜仁-2
-http://218.86.185.135:4022/rtp/238.255.2.87:5999
+http://218.86.186.18:4022/rtp/238.255.2.87:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",毕节-1
-http://218.86.185.135:4022/rtp/238.255.2.131:5999
+http://218.86.186.18:4022/rtp/238.255.2.131:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",毕节-2
-http://218.86.185.135:4022/rtp/238.255.2.132:5999
+http://218.86.186.18:4022/rtp/238.255.2.132:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",安顺新闻综合
-http://218.86.185.135:4022/rtp/238.255.2.157:5999
+http://218.86.186.18:4022/rtp/238.255.2.157:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",安顺公共
-http://218.86.185.135:4022/rtp/238.255.2.158:5999
+http://218.86.186.18:4022/rtp/238.255.2.158:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",瓮安电视台
-http://218.86.185.135:4022/rtp/238.255.2.216:5999
+http://218.86.186.18:4022/rtp/238.255.2.216:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凯里TV
-http://218.86.185.135:4022/rtp/238.255.2.180:5999
+http://218.86.186.18:4022/rtp/238.255.2.180:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雷山综合
-http://218.86.185.135:4022/rtp/238.255.2.128:5999
+http://218.86.186.18:4022/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",思南综合
-http://218.86.185.135:4022/rtp/238.255.2.218:5999
+http://218.86.186.18:4022/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州公共
 http://218.86.186.247:8188/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州影视文艺
@@ -231,6 +231,64 @@ http://219.141.46.175:8188/rtp/238.255.2.180:5999
 http://219.141.46.175:8188/rtp/238.255.2.128:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",思南综合
 http://219.141.46.175:8188/rtp/238.255.2.218:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州公共
+http://219.141.47.15:8188/rtp/238.255.2.2:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州影视文艺
+http://219.141.47.15:8188/rtp/238.255.2.3:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州大众生活
+http://219.141.47.15:8188/rtp/238.255.2.4:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-5
+http://219.141.47.15:8188/rtp/238.255.2.5:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州科教
+http://219.141.47.15:8188/rtp/238.255.2.6:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州-7
+http://219.141.47.15:8188/rtp/238.255.2.9:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳综合
+http://219.141.47.15:8188/rtp/238.255.2.19:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳生活
+http://219.141.47.15:8188/rtp/238.255.2.20:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵阳-3
+http://219.141.47.15:8188/rtp/238.255.2.22:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",六盘水-1
+http://219.141.47.15:8188/rtp/238.255.2.115:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",六盘水-2
+http://219.141.47.15:8188/rtp/238.255.2.116:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔南-1
+http://219.141.47.15:8188/rtp/238.255.2.150:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔南-2
+http://219.141.47.15:8188/rtp/238.255.2.151:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔西南综合
+http://219.141.47.15:8188/rtp/238.255.2.126:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔西南公共
+http://219.141.47.15:8188/rtp/238.255.2.127:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",黔东南综合
+http://219.141.47.15:8188/rtp/238.255.2.179:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义综合
+http://219.141.47.15:8188/rtp/238.255.2.153:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义公共
+http://219.141.47.15:8188/rtp/238.255.2.152:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遵义都市
+http://219.141.47.15:8188/rtp/238.255.2.154:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",铜仁-1
+http://219.141.47.15:8188/rtp/238.255.2.31:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",铜仁-2
+http://219.141.47.15:8188/rtp/238.255.2.87:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",毕节-1
+http://219.141.47.15:8188/rtp/238.255.2.131:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",毕节-2
+http://219.141.47.15:8188/rtp/238.255.2.132:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",安顺新闻综合
+http://219.141.47.15:8188/rtp/238.255.2.157:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",安顺公共
+http://219.141.47.15:8188/rtp/238.255.2.158:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",瓮安电视台
+http://219.141.47.15:8188/rtp/238.255.2.216:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凯里TV
+http://219.141.47.15:8188/rtp/238.255.2.180:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雷山综合
+http://219.141.47.15:8188/rtp/238.255.2.128:5999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",思南综合
+http://219.141.47.15:8188/rtp/238.255.2.218:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州公共
 http://61.159.134.216:18000/rtp/238.255.2.2:5999
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",贵州影视文艺
